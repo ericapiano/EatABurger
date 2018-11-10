@@ -3,8 +3,8 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM that us
 
 ## Getting Started
 * Clone the EatABurger repo to your computer
-* Run a npm install to acquire express, handlebars, express-handleparess, and mysql packages
-* Create database by coping schema folder into desired sequel application (ex - Sequel Pro, Workbench)
+* Run a npm install to acquire dependencies
+* Create database and tables by running the schema file in your preferred sequel application (ex - Sequel Pro, MySQL Workbench)
 * Launch website by entering 'heroku open' from command line
 
 ## Functionality
@@ -18,9 +18,7 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM that us
 
 ## Technologies Used
 * Express
-* Handlebars
+* Handlebars Templating Engine
 * Node.js
 * MySQL
-* express-handlbars
-* Sequel Pro
 * Heroku
