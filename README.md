@@ -1,5 +1,5 @@
 # Eat-A-Burger
-A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM that uses Node. It also uses MySQL to query and route data, and Handlebars to generate HTML.
+A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM that uses Node. MySQL is used to query and route data, and Handlebars to generate HTML.
 
 ## Getting Started
 * Clone the EatABurger repo to your computer
